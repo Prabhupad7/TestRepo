@@ -1,0 +1,102 @@
+
+
+A. Service Performance - Contractual KRA, KPIs, Compliance (As per SOW & Internal Metrics) -- Score is 15
+
+1. Able to understand the business requirements from the peers and provided the quick help to the clients / customers.
+2. Had good KT session and Training on the business process which helped the overall process hassle-free.
+
+KRA's
+
+3. As an Analyst, I have understood the role in which I need to contribute to the team to delivered with high quality.
+4. I was able handle issues of small and medium level  with continued communication with stakeholders on the updates and
+even getting constant updates from the Dev team about the progress.
+
+KPI's
+
+5. Identified some potential errors or major issues and informed to the L2 team.
+6. Constantly monitoring the KLI servers and SMC Notification servers and if any issue found immediately informed to the KLI team.
+
+Compliance
+
+7. Had always adhered to Reporting manager/ Development Team and adapting to work nature, learning new technology for the business.
+
+
+I will rate myself - 4.
+---------------------->  
+
+B. Automation Initiatives -- Score is 5
+
+1. Part of automation process and always in touch with development team.
+2. Continuosly involved the client issues and conveyed same to the development team, where development team can do automation.
+
+I will rate myself - 4.
+
+---------------------------->
+
+ C. Special Initiatives -- Score is 10
+
+1. Took special initiatives by constant communication with clinet and end users to collect their feedbacks and shared the knowledge with them for their better understanding.
+2. I was more persistent in learning and learned the AWS basics, Linux Basics and currently learning the CI & CD pipeline and AZURE basics.
+3. As I joined int the team as a analyst and support work culture is new for me so took special interest in dealing with customer / clients calls.
+4. I always interested about Cloud technology and  discussing with the Cloud team about the different aspects of the technology.
+
+I will rate myself - 4.
+
+---------------------->
+
+
+D. Capability Building --> Score is 5
+
+1. AWS 
+2. GIT and GIT HUB.
+3. SVN
+4. CI & CD Pipeline.
+5. Linux Basics
+6. Chef
+7. Ansible
+
+I will rate myself - 4.
+
+---------------------->
+
+E. Projects - Documentation, KPIs, Milestones --> Score is 10
+
+1. I have documented SOP's for SmartCenter issues which will help the stakeholders to diagnosis and troubleshoot.
+2. I was able to document a few KB's articles for SmartCenter.
+
+I will rate myself - 5.
+
+---------------------->
+
+F. Self-Development, Certification - 120 Hrs --> Score is 5
+
+1. I have taken a course on AWS basics and completed it on time.
+2. I will be taking an Azure Certification on AZ-104 in March.
+3. Currently learning the DevOps tools.
+3. Once completed, I am aiming to take up DevOps Engineer.
+
+I will rate myself - 4.
+
+------------------------->
+
+G. Escalations >=1 (Per year) and " Customer Delight > = 4 / Quarter" --> Score is 10
+
+There were some Escalations on me before managed them quickly by addressing the issues and now a days getting no escalations.
+But, as I got one appreciation (officially) for contributed more work.
+
+I will rate myself - 3.
+
+------------------------->
+
+
+H. Adherence to ML initiatives & policies - Attendance, Microlander, Surveys, Availability, On-call--> Score is 10
+
+1. I always adhered to all ML initiatives and policies like marking my attendance on time in the portal before the 15th of every month.
+2. I have updated my Microlander profile up-to-date, with accurate information.
+3. To date, I have not missed any Surveys in ML App.
+4. I am punctual, I am always available over the Mail or Teams for interacting with my team members or for Business purpose.
+5. During any Meetings over Teams/ Skype, I will make sure I will join the session 5 minutes before the actual meeting time.
+
+I will rate myself - 5.
+
+

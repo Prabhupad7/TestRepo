@@ -1,0 +1,48 @@
+
+
+-----> 1  Issue Title: 1 HMCL Users are able to login EUP but unable to log a ticket:
+
+       Short Description:  Need to add a user in the Hero_users table
+
+
+    Steps: 
+
+         Step 1: Get the user details from the Requestor Table:
+                 
+                 Select * from Requestor where requestorEmail like '%RequestorEmail%'
+
+         Step 2: Get the required details and insert the  Requestor details into the Hero_Users table:
+
+                 Insert into Hero_Users (firstName, lastName, emailAddress, mobilePhone1, workAddress1, employeeId, employeeTitle, department)
+                 values ('firstName', 'lastName', 'emailAddress', 'mobilePhone1', 'workAddress1', 'employeeId', 'employeeTitle', 'department')
+
+
+
+
+ -----> 2  Issue Title: Auto ticketing schedule is not working:
+ 
+         Short Description: Verify the status of Smartcenter Ticket Schedular Service in SMCNotification Azure cloud VM.
+      
+        Step 1: Login to the SMCNotification server.
+
+        Step 2: Go to the services and check the status of the service : SmartCenter Ticket Schedular Service – if it is in stopped state, Restart the service.
+
+        Step 3: If service is running fine, please check the latest log file in the path:"C:\Services\TicketSchedular\Log" and compare with "SMCNotification server" time.
+
+        Step 4: if you find time difference between service and system time, Restart the service.
+
+
+ -----> 3 New Request for adding the "Change approvers" for Change requests
+        
+        Short Description:  Add or update the "Change approvers" details for Change requests:
+
+        Step 1: Get the list of Change Approvers from customer.
+
+        Step 2: Insert the details into the ChangeAdvisoryBoard table:
+
+            Insert into ChangeAdvisoryBoard (memberName, displayName, emailId, customerId, customerName, isdeleted, deleted)
+
+            values ('memberName', 'displayName', 'emailId', @customerId, 'customerName', 0, 0)
+
+
+

@@ -1,0 +1,32 @@
+
+Functions Example:
+
+/****** Object:  UserDefinedFunction [dbo].[fn_getIndianTime]    Script Date: 10-10-2022 12:53:29 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER FUNCTION [dbo].[fn_getIndianTime]()
+RETURNS [datetime] WITH EXECUTE AS CALLER
+AS 
+Begin
+ RETURN DATEadd(minute, 330,GetUTCdate())
+ end
+
+
+/****** Object:  UserDefinedFunction [dbo].[GetMaxValue]    Script Date: 10-10-2022 12:53:48 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER function [dbo].[GetMaxValue] (@val1 as int, @val2 as int) returns int
+begin
+	if(@val1 > @val2)
+	begin
+		return @val1
+	end
+	return @val2
+end
+
+============================================================================================================>>>>>>>
+
